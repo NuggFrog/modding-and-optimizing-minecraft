@@ -2,8 +2,6 @@
 
 A collection of tools, scripts, plugins, and resources aimed at optimizing Minecraft's performance. We are focused on addressing common performance bottlenecks, reducing lag, improving frame rates, optimizing server performance, and enhancing overall gameplay.
 
-##Table Of Contents
-
 ## Table of Contents
 
 - [Modding And Optimizing Minecraft](#modding-and-optimizing-minecraft)
