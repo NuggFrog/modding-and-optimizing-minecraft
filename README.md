@@ -217,3 +217,12 @@ To optimize Minecraft and get started with ATLauncher, follow these steps:
 3. **Launch ATLauncher**: After installation, launch ATLauncher and log in with your Minecraft Account.
 aa
 4. **Click Settings**: Under General disable `Keep Launcher Open` and `Enable Discord Intergration`
+
+## Performance Mod Packs
+-YET TO WRITE
+### Forge
+-YET TO WRITE
+### Fabric
+-YET TO WRITE
+## Performance Mods
+-YET TO WRITE
