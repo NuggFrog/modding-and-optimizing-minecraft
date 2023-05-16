@@ -26,7 +26,7 @@ A collection of tools, scripts, plugins, and resources aimed at optimizing Minec
     - [Optimizing Minecraft with ATLauncher](#optimizing-minecraft-with-atlauncher)
 
 
-## Modding
+## Modding 🔧
 
 ### Mod Loaders: Understanding Forge and Fabric
 
@@ -196,7 +196,7 @@ In addition to CurseForge Launcher and ATLauncher, custom mod launchers have gai
 
 When choosing a mod launcher, consider your specific needs and priorities. If you value a vast mod library and user-friendly interface, CurseForge Launcher may be a suitable choice. However, if performance optimization is your primary concern, ATLauncher or custom mod launchers can provide a more tailored and optimized experience.
 
-# Optimizing Minecraft
+# Optimizing Minecraft 📈
 
 ## Optimizing Minecraft with ATLauncher
 
