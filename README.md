@@ -1,8 +1,38 @@
-# Modding Minecraft
+# Modding And Optimizing Minecraft
 
 A collection of tools, scripts, plugins, and resources aimed at optimizing Minecraft's performance. We are focused on addressing common performance bottlenecks, reducing lag, improving frame rates, optimizing server performance, and enhancing overall gameplay.
 
-## Getting Started
+##Table Of Contents
+
+## Table of Contents
+
+- [Modding And Optimizing Minecraft](#modding-and-optimizing-minecraft)
+  - [Modding Minecraft](#modding)
+    - [Mod Loaders: Understanding Forge and Fabric](#mod-loaders-understanding-forge-and-fabric)
+      - [Forge](#forge)
+      - [Fabric](#fabric)
+      - [Differences between Forge and Fabric](#differences-between-forge-and-fabric)
+  - [Prerequisites](#prerequisites)
+  - [Installing Forge and Fabric](#installing-forge-and-fabric)
+    - [Installing Forge](#installing-forge)
+    - [Installing Fabric](#installing-fabric)
+  - [Downloading and Installing Mods](#downloading-and-installing-mods)
+    - [Find Mods](#find-mods)
+    - [Download Mods](#download-mods)
+    - [Locate the Minecraft Installation Folder](#locate-the-minecraft-installation-folder)
+    - [Install Mods](#install-mods)
+  - [Mod Packs: A Collection of Mods](#mod-packs-a-collection-of-mods)
+    - [Mod Packs vs. Individual Mods](#mod-packs-vs-individual-mods)
+    - [Mod Packs in Custom Minecraft Launchers](#mod-packs-in-custom-minecraft-launchers)
+  - [Mod Launchers: CurseForge, ATLauncher, and Custom Launchers](#mod-launchers-curseforge-atlauncher-and-custom-launchers)
+    - [CurseForge Launcher](#curseforge-launcher)
+    - [ATLauncher](#atlauncher)
+    - [Benefits of Custom Mod Launchers](#benefits-of-custom-mod-launchers)
+  - [Optimizing Minecraft](#optimizing-minecraft)
+    - [Optimizing Minecraft with ATLauncher](#optimizing-minecraft-with-atlauncher)
+
+
+## Modding
 
 ### Mod Loaders: Understanding Forge and Fabric
 
@@ -131,7 +161,7 @@ Mod packs are preconfigured collections of mods, configurations, and sometimes c
 ### Mod Packs vs. Individual Mods
 
 The main difference between mod packs and individual mods is the level of curation and convenience they provide. Here are a few key points to consider:
-
+a
 - **Ease of Use**: Mod packs are designed to be easy to install and use. Instead of searching and installing multiple mods individually, mod packs allow you to install a single package that includes all the necessary mods and configurations.
 
 - **Compatibility**: Mod packs ensure that all the included mods are compatible with each other. Mod pack creators carefully select and configure mods to work together seamlessly, reducing the chances of conflicts or crashes.
@@ -191,5 +221,5 @@ To optimize Minecraft and get started with ATLauncher, follow these steps:
 2. **Install ATLauncher**: Once the ATLauncher file is downloaded, run the installer and follow the on-screen instructions to install ATLauncher on your computer.
 
 3. **Launch ATLauncher**: After installation, launch ATLauncher and log in with your Minecraft Account.
-
+aa
 4. **Click Settings**: Under General disable `Keep Launcher Open` and `Enable Discord Intergration`
