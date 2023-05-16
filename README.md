@@ -53,8 +53,6 @@ Choosing between Forge and Fabric ultimately depends on your specific needs and 
 In this repository, we aim to provide optimizations that can be applied to both Forge and Fabric setups. We will highlight any specific considerations or differences where applicable. Whether you choose Forge or Fabric, you'll find valuable optimization techniques and resources to enhance your Minecraft experience.
 
 
-# <--------------------------------------------------------------------------->
-
 
 ## Prerequisites
 
