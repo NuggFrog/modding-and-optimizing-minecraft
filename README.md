@@ -5,7 +5,7 @@ A collection of tools, scripts, plugins, and resources aimed at optimizing Minec
 ## Table of Contents
 
 - [Modding And Optimizing Minecraft](#modding-and-optimizing-minecraft)
-  - [Modding Minecraft](#modding)
+  - [Modding Minecraft 🔧](#modding)
     - [Mod Loaders: Understanding Forge and Fabric](#mod-loaders-understanding-forge-and-fabric)
       - [Forge](#forge)
       - [Fabric](#fabric)
@@ -22,7 +22,7 @@ A collection of tools, scripts, plugins, and resources aimed at optimizing Minec
     - [CurseForge Launcher](#curseforge-launcher)
     - [ATLauncher](#atlauncher)
     - [Benefits of Custom Mod Launchers](#benefits-of-custom-mod-launchers)
-  - [Optimizing Minecraft](#optimizing-minecraft)
+  - [Optimizing Minecraft 📈](#optimizing-minecraft)
     - [Optimizing Minecraft with ATLauncher](#optimizing-minecraft-with-atlauncher)
 
 
